@@ -1,7 +1,7 @@
 ## Purpuse
 
 Python2.7 has been deprecated as the community is strongly pushing for the use of python3.
-Therefore, python2.7 can't be installed using `homebrew` anymore. However, lots of code still depends on it.
+Therefore, python2.7 can't be installed using `homebrew` anymore. However, lots of code still depend on it.
 So, this is an alternative one-line command installer.
 
 ## Usage
